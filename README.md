@@ -1,3 +1,4 @@
 # pursuit-express-ex
 
-Refactor `index.js` such that the `todoitem` routes are organized in the same way the `user` routes are organized.
+In **[this](https://github.com/mmosayed/Middleware-Simple-Auth)** PSET, please solve **Problem 2**.
+
